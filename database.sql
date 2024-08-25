@@ -2415,7 +2415,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'mosesnielsen68@gmail.com',NULL,'$2y$10$RVGBHAwqJgELH4UAz281S.MWnCyoJ3eVARla8I41rdFlPCK8umWR6',NULL,'2021-07-02 21:03:29','2021-07-02 21:03:29','Moses','Nielsen','Nielsen',NULL,1,1,NULL,NULL);
+INSERT INTO `users` VALUES (1,'mosesnielsen68@gmail.com',NULL,'$2y$10$N9.nEMvlggks8fDwA8WEoeWEMUM2VtVex1YRCbdByBsj9Se/.E1qy',NULL,'2021-07-02 21:03:29','2021-07-02 21:03:29','Moses','Nielsen','Nielsen',NULL,1,1,NULL,NULL);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 
